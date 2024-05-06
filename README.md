@@ -12,4 +12,4 @@ Converts a large number of PDF forms with special characters specific to Spanish
 1. **pdf_to_csv.py**: this program converts each pdf to a csv and hosts them in a csv_output folder. 
 2. **merging_csvs.py**: merges all csv files into a single one with the structure that I found more readable.
 
-![Alt Text](https://giphy.com/gifs/taylorswift-ttpd-tsttpd-ts-39oBYsM6XaLkpwqOKE)
+<img src="https://giphy.com/gifs/taylorswift-ttpd-tsttpd-ts-39oBYsM6XaLkpwqOKE" width="100" height="100" />
